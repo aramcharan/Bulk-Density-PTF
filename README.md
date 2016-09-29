@@ -4,16 +4,7 @@
 
 *Mean Prediction Error (n = 22,887) = 0.0005 g/cm3*
 
-Validation statistics for machine learning bulk density model
-Validation dataset	        |n	  |RMSPE g/cm3	  |MPE g/cm3
-|-------------------------|:---:|:----------:|------------:|
-Organic layers (>8% SOC)	  174	    0.13	         0.0000
-Sandy layers (>70% sand)	 2167	    0.13	         0.0000
-A horizon	                 6272	    0.14	         0.0037
-B horizon	                14782	    0.12	        -0.0007
-C horizon	                 1029	    0.16	        -0.0200
-E horizon	                  822	    0.14	        -0.1740
-O horizon	                   23	    0.30	         0.0032
+
 
 Here are some commands to use the machine learning random forest model in R.
 
