@@ -4,6 +4,8 @@
 
 *Mean Prediction Error (n = 22,887) = 0.0005 g/cm3*
 
+![Image of validation table]
+(https://github.com/aramcharan/Bulk-Density-PTF/blob/master/validation_table.png)
 
 
 Here are some commands to use the machine learning random forest model in R.
