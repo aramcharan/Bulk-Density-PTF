@@ -1,7 +1,7 @@
 # Bulk-Density-PTF
 
-#Global Root Mean Square Prediction error (n = 22,887) = 0.13 g/cm3
-#Mean Prediction Error (n = 22,887) = 0.0005 g/cm3
+Global Root Mean Square Prediction error (n = 22,887) = 0.13 g/cm3
+Mean Prediction Error (n = 22,887) = 0.0005 g/cm3
 
 Validation statistics for machine learning bulk density model
 Validation dataset	        n	  RMSPEa g/cm3	  MPEb g/cm3
