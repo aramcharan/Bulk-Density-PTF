@@ -23,7 +23,7 @@ Obtain a single prediction:
 predict.rfsrc(rfsrc_BD, data.frame(soc=1.2, ph_h2o=7.6, sand=45, clay=12, depth=20, structsize= "fine", structtype= "subangular blocky", surf_geology= "alluvial sediments, thick", province="chihuahuan semi-desert province", hzn_desg= "C"))$predicted
 ```
 
-Obtain a dataframe of predictions (you can use valid09122016.csv as an example):
+Obtain a dataframe of predictions (you can use valid10242016.csv as an example):
 ```
 valid_df <- read.csv("valid_09122016.csv")
 bd_predict <- predict.rfsrc(rfsrc_BD, newdata = valid_df)
