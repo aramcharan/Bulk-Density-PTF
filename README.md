@@ -1,11 +1,15 @@
 # Bulk-Density-PTF
 
-*Global Root Mean Square Prediction error (n = 22,887) = 0.13 g/cm3*
+*Global Root Mean Square Prediction error (n = 22,960) = 0.13 g/cm3*
 
-*Mean Prediction Error (n = 22,887) = 0.001 g/cm3*
+*Mean Prediction Error (n = 22,887) = -0.001 g/cm3*
 
 ![validation table]
 (https://github.com/aramcharan/Bulk-Density-PTF/blob/master/Validation.JPG)
+
+Ecoregion map: http://www.fs.fed.us/rm/ecoregions/products/map-ecoregions-united-states/
+Surficial Materials map: http://pubs.usgs.gov/ds/425/
+Soil Structure classification: https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_052523.pdf
 
 Here are some commands to use the machine learning random forest model in R.
 
