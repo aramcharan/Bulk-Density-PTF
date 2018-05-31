@@ -12,7 +12,7 @@ Surficial Materials map: http://pubs.usgs.gov/ds/425/
 
 Soil Structure classification: https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_052523.pdf
 
-Source code to builf model with the latest version of RandomForestSRC is available in dataverse_files.zip
+Source code to builf model with the latest version of RandomForestSRC is available in https://github.com/aramcharan/Bulk-Density-PTF/blob/master/dataverse_files.zip
 
 Obtain a single prediction: 
 ```
