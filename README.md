@@ -4,8 +4,7 @@
 
 *Mean Prediction Error (n = 22,887) = -0.001 g/cm3*
 
-![validation table]
-(https://github.com/aramcharan/Bulk-Density-PTF/blob/master/Validation.JPG)
+
 
 Ecoregion map: http://www.fs.fed.us/rm/ecoregions/products/map-ecoregions-united-states/
 
@@ -13,16 +12,7 @@ Surficial Materials map: http://pubs.usgs.gov/ds/425/
 
 Soil Structure classification: https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_052523.pdf
 
-Here are some commands to use the machine learning random forest model in R.
-
-Download library:
-```
-library(randomForestSRC)
-```
-Load rf model:
-```
-load("rfsrc_09122016.Rdata")
-```
+Source code to builf model with the latest version of RandomForestSRC is available in dataverse_files.zip
 
 Obtain a single prediction: 
 ```
